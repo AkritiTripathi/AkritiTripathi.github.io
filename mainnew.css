@@ -4,7 +4,8 @@ body, html {
 
 
 body { 
-    background-image:url('UnequaledLazyGrayreefshark-size_restricted.gif');
+   /* background-image:url('UnequaledLazyGrayreefshark-size_restricted.gif');*/
+	background-color: black;
     background-repeat:repeat; 
     background-size: cover;
     display: block;
