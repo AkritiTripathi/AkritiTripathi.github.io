@@ -114,6 +114,12 @@ p {
     background-color:darkorange;
 }
 
+.link7 {
+    color: white;
+    text-decoration:none;
+    background-color:seagreen
+}
+
 .email {
     background-color:darkolivegreen;
 }
